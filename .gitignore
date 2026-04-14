@@ -14,6 +14,7 @@ venv/
 # Secrets and env files
 .env
 .env.*
+!.env.example
 *.pem
 *.key
 
