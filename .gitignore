@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
+
+# Secrets and env files
+.env
+.env.*
+*.pem
+*.key
+
+# Experiment outputs
+scripts/results/
+results/
+logs/
+*.log
+
+# Data and model artifacts
+benchmarks_v3/
+datasets/
+checkpoints/
+*.pt
+*.bin
+*.safetensors
+*.ckpt
+*.parquet
+
+# Temp files
+tmp/
+*.tmp

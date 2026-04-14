@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Data Overlap as a Post-Training Hyperparameter for Autoformalization"
+message: "If you use this repository, please cite the paper using this metadata."
+type: article
+authors:
+  - family-names: Su
+    given-names: Xiaole
+    affiliation: Northeastern University; Osmosis AI
+    email: su.xiaol@northeastern.edu
+  - family-names: Zhang
+    given-names: Kasey
+    affiliation: Osmosis AI
+    email: kasey@osmosis.ai
+  - family-names: Lyu
+    given-names: Andy
+    affiliation: Osmosis AI
+    email: andy@osmosis.ai
+repository-code: "https://github.com/xiaolesu/data-overlap-autoformalization"
+license: MIT
