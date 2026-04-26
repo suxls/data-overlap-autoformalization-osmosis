@@ -2,6 +2,8 @@
 
 **Xiaole Su** (Northeastern University, Osmosis AI) &middot; **Kasey Zhang** (Osmosis AI) &middot; **Andy Lyu** (Osmosis AI)
 
+[[View at Arxiv]] (https://arxiv.org/abs/2604.13515)
+[[View at Osmosis]] (https://osmosis.ai/blogs/testing-data-overlap-between-sft-and-grpo-on-autoformalization)
 [[Paper]](paper/paper_v4.pdf)
 
 ## Abstract
